@@ -1,0 +1,27 @@
+{
+    "name": "NodeJsApplication",
+    "version": "1.0.0",
+    "scripts": {
+        "server": "nodemon main.js"
+    },
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "bhanu",
+    "contributors": [],
+    "dependencies": {
+        "aws-sdk": "^2.332.0",
+        "cors": "^2.8.4",
+        "dotenv": "^6.1.0",
+        "express": "^4.16.3",
+        "http": "0.0.0",
+        "https": "^1.0.0",
+        "mongoose": "^5.3.2",
+        "node-async-loop": "^1.2.2",
+        "yargs": "^12.0.2"
+    }
+}
